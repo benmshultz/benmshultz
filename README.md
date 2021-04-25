@@ -1,3 +1,5 @@
+theme: jekyll-theme-slate
+
 ### Welcome!
 
 I'm Benjamin Shultz and I'm an M.A. in International Relations and Master of Public Administration Dual-Degree Student at the Maxwell School of Citizenship and Public Affairs at Syracuse University. I received a B.A. with Distinction in Political Science from Sonoma State University in 2019.
